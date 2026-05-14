@@ -5,19 +5,19 @@ Complete Machine Learning Roadmap
 ________________________________________
 🟢 Phase 1: Python Basics   ✅Done 
 Key Libraries to Start Learning (if not already):
-•	numpy – numerical operations (arrays, math)
-•	pandas – data manipulation (DataFrames, CSVs)
-•	matplotlib & seaborn – data visualization
+•	numpy – numerical operations (arrays, math) ✅Done
+•	pandas – data manipulation (DataFrames, CSVs) ✅Done
+•	matplotlib & seaborn – data visualization ✅Done
 📘 Resource: Kaggle Python Course  best resourec for bandas and munpy
 ________________________________________
 🔷 Phase 2: Core ML Concepts + First Models
 💼 Libraries:
-•	scikit-learn (sklearn) – the main ML library
-o	train_test_split, LinearRegression, LogisticRegression, KNeighborsClassifier, etc.
-•	pandas – for data handling
-•	matplotlib/seaborn – for plotting
+•	scikit-learn (sklearn) – the main ML library ✅Done
+o	train_test_split, LinearRegression, LogisticRegression, KNeighborsClassifier, etc. ✅Done
+•	pandas – for data handling ✅Done
+•	matplotlib/seaborn – for plotting ✅Done
 🛠 Example Tasks:
-•	Build models (Linear, Logistic Regression, KNN)
+•	Build models (Linear, Logistic Regression, KNN) ✅Done
 •	Use built-in datasets: Iris, Titanic, Boston Housing
 📘 Resources:
 •	Kaggle: Intro to ML
